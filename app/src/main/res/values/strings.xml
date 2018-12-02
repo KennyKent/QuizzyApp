@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="toolbar_title">Quizzy</string>
+
+    <string name="user_name">Enter your username </string>
+
+    <string name="edit_text_user_name">Enter your username</string>
+    <string name="edit_text_first_name">Enter your first name</string>
+    <string name="edit_text_last_name">Enter your last name</string>
+    <string name="edit_text_confirm_password">Confirmed your password</string>
+    <string name="edit_text_user_mail">Enter your mail</string>
+
+    <string name="password">Enter your password</string>
+    <string name="edit_text_password_">Password</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+
+    <string name="email">E-mail</string>
+    <string name="inputName">Entrez votre nom</string>
+
+    <string name="quizzy_logo">Quizzy Logo</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- Menu -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="friends_title">Friends</string>
+    <string name="parameters_title">Parameters</string>
+    <string name="about_title">About the app</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
